@@ -1,0 +1,72 @@
+h1{
+    text-align:center;
+    font-family: 'Montserrat', Arial, sans-serif;
+    font-size: 20px;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 37px;
+    font-weight: bolder;
+}
+
+
+.stars-overall-rating{
+    color: #FFB600;
+}
+
+.rating-text{
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+}
+
+#rating-blok{
+    border-right: 1px solid lightgray;
+}
+
+#rating-desc{
+    border-right: 1px solid lightgray;
+}
+
+
+
+#glyphicon-star{
+    color: #999999;  
+}
+
+
+
+.btn-question{
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    padding: 3px 20px;
+    margin: 0px 0px 0px 15px;
+    box-shadow: 2px 3px 5px 0
+    #8888886b!important;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+}
+
+.btn-question:hover{
+    box-shadow: 0px 0px 0px 0
+    #8888886b!important;
+}
+
+.btn-review{
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    padding: 3px 20px;
+    margin: 0px 0px 0px 15px;
+    box-shadow: 2px 3px 5px 0
+    #8888886b!important;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+}
+
+.btn-review:hover{
+    box-shadow: 0px 0px 0px 0
+    #8888886b!important;
+}
+
